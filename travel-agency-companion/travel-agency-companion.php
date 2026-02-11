@@ -22,7 +22,7 @@
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       travel-agency-companion
  * Domain Path:       /languages
- * Tested up to:      6.6
+ * Tested up to:      6.7
  *
  * WTE Tested up to: 5.7
  * WTE requires at least: 4.3.0
